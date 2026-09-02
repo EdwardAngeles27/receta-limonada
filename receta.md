@@ -7,3 +7,4 @@ Azucar: 4 cuchardas
 -Exprimir limones
 -Mezclar con el agua y azucar
 -Servir fria
+- Machacarlas antes de servir
