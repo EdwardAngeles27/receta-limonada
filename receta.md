@@ -8,3 +8,5 @@ Azucar: 4 cuchardas
 -Mezclar con el agua y azucar
 -Servir fria
 - Machacarlas antes de servir
+##Servir 
+HIelo: 6 cubos
